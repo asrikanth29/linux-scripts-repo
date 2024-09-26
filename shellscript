@@ -1,0 +1,7 @@
+ping google.com
+ping ncodeit.com
+ping gitlab.com
+df -h
+cd /etc |ls -ltr
+cd /sbin | find /root/sbin -mtime +5
+
